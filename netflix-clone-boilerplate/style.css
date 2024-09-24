@@ -1,0 +1,31 @@
+*{
+    background-color: #000000;
+    color: #fff;
+    font-family: poppins,sans-serif;
+    padding: 0;
+}
+#image{
+    padding: 10px 10px;
+    align-content: flex-start;
+    
+}
+#main img{
+    list-style-image: -moz-linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7) url(image/assets/Title-Image.png));
+}
+#play{
+    background-color: #fff;
+}
+h4{
+   font-size: medium;
+    
+}
+.arrow{
+    
+    align-content:center;
+}
+.shows{
+    padding-left: 10px;;
+}
+#id{
+    font-size: x-small;
+}
